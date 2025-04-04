@@ -32,3 +32,4 @@ steps:
       packagesToPush: '**/*.nupkg'
       nuGetFeedType: 'internal'
       publishVstsFeed: NewFeed
+      project: StringExtensionsPublic
