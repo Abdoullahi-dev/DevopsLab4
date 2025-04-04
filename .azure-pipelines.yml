@@ -28,6 +28,3 @@ steps:
     displayName: 'Push NuGet package'
     inputs:
       command: 'push'
-      packagesToPush: '**/*.nupkg'
-      nuGetFeedType: 'internal'
-      publishVstsFeed: 'YourFeedName'
