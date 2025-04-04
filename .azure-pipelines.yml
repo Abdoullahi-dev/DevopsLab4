@@ -31,5 +31,4 @@ steps:
       command: push
       packagesToPush: '**/*.nupkg'
       nuGetFeedType: 'internal'
-      feedPublish: 759304c2-2d51-4ccb-afcc-bb107aa90e07
-      project: StringExtensionsPublic
+      vstsFeed: StringExtensionsPublic/NewFeed
