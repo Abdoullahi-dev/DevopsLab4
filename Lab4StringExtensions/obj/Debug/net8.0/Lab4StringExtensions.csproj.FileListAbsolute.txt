@@ -1,0 +1,11 @@
+C:\Users\issea\source\repos\Lab4StringExtensions\Lab4StringExtensions\bin\Debug\net8.0\Lab4StringExtensions.deps.json
+C:\Users\issea\source\repos\Lab4StringExtensions\Lab4StringExtensions\bin\Debug\net8.0\Lab4StringExtensions.dll
+C:\Users\issea\source\repos\Lab4StringExtensions\Lab4StringExtensions\bin\Debug\net8.0\Lab4StringExtensions.pdb
+C:\Users\issea\source\repos\Lab4StringExtensions\Lab4StringExtensions\obj\Debug\net8.0\Lab4StringExtensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\issea\source\repos\Lab4StringExtensions\Lab4StringExtensions\obj\Debug\net8.0\Lab4StringExtensions.AssemblyInfoInputs.cache
+C:\Users\issea\source\repos\Lab4StringExtensions\Lab4StringExtensions\obj\Debug\net8.0\Lab4StringExtensions.AssemblyInfo.cs
+C:\Users\issea\source\repos\Lab4StringExtensions\Lab4StringExtensions\obj\Debug\net8.0\Lab4StringExtensions.csproj.CoreCompileInputs.cache
+C:\Users\issea\source\repos\Lab4StringExtensions\Lab4StringExtensions\obj\Debug\net8.0\Lab4StringExtensions.dll
+C:\Users\issea\source\repos\Lab4StringExtensions\Lab4StringExtensions\obj\Debug\net8.0\refint\Lab4StringExtensions.dll
+C:\Users\issea\source\repos\Lab4StringExtensions\Lab4StringExtensions\obj\Debug\net8.0\Lab4StringExtensions.pdb
+C:\Users\issea\source\repos\Lab4StringExtensions\Lab4StringExtensions\obj\Debug\net8.0\ref\Lab4StringExtensions.dll
