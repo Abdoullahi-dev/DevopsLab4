@@ -27,4 +27,7 @@ steps:
   - task: DotNetCoreCLI@2
     displayName: 'Push NuGet package'
     inputs:
-      command: 'push'
+      command: push
+      packagesToPush: '**/*.nupkg'
+      nuGetFeedType: 'internal'
+      publishVstsFeed: 'NewFeed'

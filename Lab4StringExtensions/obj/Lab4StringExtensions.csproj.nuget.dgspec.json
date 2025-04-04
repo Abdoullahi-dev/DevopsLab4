@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\issea\\source\\repos\\Lab4StringExtensions\\Lab4StringExtensions\\Lab4StringExtensions.csproj",
-        "projectName": "Lab4StringExtensions",
+        "projectName": "ExtensionClass",
         "projectPath": "C:\\Users\\issea\\source\\repos\\Lab4StringExtensions\\Lab4StringExtensions\\Lab4StringExtensions.csproj",
         "packagesPath": "C:\\Users\\issea\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\issea\\source\\repos\\Lab4StringExtensions\\Lab4StringExtensions\\obj\\",

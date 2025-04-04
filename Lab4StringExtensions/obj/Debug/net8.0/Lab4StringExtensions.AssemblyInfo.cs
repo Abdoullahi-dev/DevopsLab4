@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Lab4StringExtensions")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("String Extension Class")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6f1302a588003b6ffb02cd96475ca7fb266dcaa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+468a5421920e2faa22845da04dbe6ca1db30868d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab4StringExtensions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab4StringExtensions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
