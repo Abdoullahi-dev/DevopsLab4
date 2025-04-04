@@ -31,4 +31,4 @@ steps:
       command: push
       packagesToPush: '**/*.nupkg'
       nuGetFeedType: 'internal'
-      publishVstsFeed: 'NewFeed'
+      publishVstsFeed: '759304c2-2d51-4ccb-afcc-bb107aa90e07'
