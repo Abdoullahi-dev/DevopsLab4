@@ -31,5 +31,5 @@ steps:
       command: push
       packagesToPush: '**/*.nupkg'
       nuGetFeedType: 'internal'
-      publishVstsFeed: NewFeed
-      project: StringExtensionsPublic
+      publishVstsFeed: 'NewFeed'
+      project: 'YourProjectName'
