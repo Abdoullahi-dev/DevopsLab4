@@ -7,7 +7,7 @@
     <PackageId>ExtensionClass</PackageId>  
     <Version>1.0.0</Version>
     <Authors>Test</Authors>
-    <Description>String Extension Class</Description>
+    <Description>String Extension Class #</Description>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 
   </PropertyGroup>

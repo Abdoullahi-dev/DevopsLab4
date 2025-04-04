@@ -13,9 +13,9 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyDescriptionAttribute("String Extension Class")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("String Extension Class #")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c59d47d02f7a853fa1921195092da5dcc61265e5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f9538117029522e99ab0b2f9be820d5beb69862")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab4StringExtensions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab4StringExtensions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
