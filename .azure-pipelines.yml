@@ -1,0 +1,35 @@
+trigger:
+  - main
+
+pool:
+  name: 'Default'
+  demands:
+    - agent.name -equals 'YourSelfHostedAgentName'
+
+steps:
+  - task: DotNetCoreCLI@2
+    displayName: 'Restore NuGet packages'
+    inputs:
+      command: 'restore'
+      projects: '**/*.csproj'
+
+  - task: DotNetCoreCLI@2
+    displayName: 'Build project'
+    inputs:
+      command: 'build'
+      projects: '**/*.csproj'
+
+  - task: DotNetCoreCLI@2
+    displayName: 'Pack NuGet package'
+    inputs:
+      command: 'pack'
+      packagesToPack: '**/*.csproj'
+      versioningScheme: 'byBuildNumber'
+
+  - task: DotNetCoreCLI@2
+    displayName: 'Push NuGet package'
+    inputs:
+      command: 'push'
+      packagesToPush: '**/*.nupkg'
+      nuGetFeedType: 'internal'
+      publishVstsFeed: 'YourFeedName'
