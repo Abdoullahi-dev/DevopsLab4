@@ -8,21 +8,21 @@ steps:
   - task: DotNetCoreCLI@2
     displayName: 'Restore NuGet packages'
     inputs:
-      command: 'restore'
+      command: restore
       projects: '**/*.csproj'
 
   - task: DotNetCoreCLI@2
     displayName: 'Build project'
     inputs:
-      command: 'build'
+      command: build
       projects: '**/*.csproj'
 
   - task: DotNetCoreCLI@2
     displayName: 'Pack NuGet package'
     inputs:
-      command: 'pack'
+      command: pack
       packagesToPack: '**/*.csproj'
-      versioningScheme: 'byBuildNumber'
+      versioningScheme: byPrereleaseNumber
 
   - task: DotNetCoreCLI@2
     displayName: 'Push NuGet package'
