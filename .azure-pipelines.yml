@@ -16,6 +16,7 @@ steps:
     inputs:
       command: build
       projects: '**/*.csproj'
+      arguments: '--configuration Release --framework net8.0'
 
   - task: DotNetCoreCLI@2
     displayName: 'Pack NuGet package'
