@@ -4,7 +4,7 @@ trigger:
 pool:
   name: 'Default'
   demands:
-    - agent.name -equals 'YourSelfHostedAgentName'
+    - agent.name -equals 'AGENT1'
 
 steps:
   - task: DotNetCoreCLI@2
